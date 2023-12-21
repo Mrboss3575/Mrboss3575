@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mrboss3575
 - 👀 I’m interested in making webs
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning JavaScript 
+- 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me yohansashenafe@gmail.com
 
 <!---
