@@ -1,2 +1,1 @@
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sades%20we%20geze&theme=dark&locale=am&exclude_days=Mon%2CTue%2CWed%2CThu)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mr-boss&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
